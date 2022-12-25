@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++ Data Structures & Algorithms**
 
-- 👨‍💻 All of my projects are available at [linktr.ee/tayyab_ilyas](linktr.ee/tayyab_ilyas)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/tayyab_ilyas](https://linktr.ee/tayyab_ilyas)
 
 - 📫 How to reach me **tayyabilyas963@gmail.com**
 
