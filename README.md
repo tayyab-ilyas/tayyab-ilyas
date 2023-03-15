@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tayyab</h1>
 <h3 align="center">A passionate computer science geek from India</h3>
 
-- 🌱 I’m currently learning **C++ Data Structures & Algorithms**
+- 🌱 I’m currently learning **C++ & Web Development**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/tayyab_ilyas](https://linktr.ee/tayyab_ilyas)
 
