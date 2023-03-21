@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyab-ilyas&label=Profile%20views&color=0e75b6&style=flat" alt="tayyab-ilyas" /> </p>
 
-- 🌱 I’m currently learning **C++ & Web Development*
+- 🌱 I’m currently learning **C++ & Web Development**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/tayyab_ilyas](https://linktr.ee/tayyab_ilyas)
 
