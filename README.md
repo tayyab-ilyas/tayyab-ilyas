@@ -2,6 +2,7 @@
 <h3 align="center" style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">A passionate computer science geek from India</h3>
 
 ###
+<div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=tayyab-ilyas&show_icons=true&locale=en" alt="tayyab-ilyas" height="150" alt="stats graph"/>
  
